@@ -1,5 +1,4 @@
 # 忽略所有 .txt 文件
 *.txt
 *.parquet
-*.html
 *.pyc

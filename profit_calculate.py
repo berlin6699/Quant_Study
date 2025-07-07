@@ -24,7 +24,7 @@ def main():
 
     # demo1:从网上获取基金数据，计算该基金的利润曲线
     pcf.simple_profit_simulate_datafromonline(
-        fund_code="000001",  # 示例基金代码
+        fund_code="005693",  # 示例基金代码
         start_date="2024-06-06",
         end_date="2025-05-09",
         drop_max=0.3,
